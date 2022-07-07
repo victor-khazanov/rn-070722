@@ -1,0 +1,15 @@
+{
+  "appName": "rollout-reporter",
+  "userGivenName": "rollout-reporter",
+  "destNamespace": "codefresh-victor",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/rollout-reporter/codefresh-victor/resources",
+  "srcRepoURL": "https://github.com/victor-khazanov/rn-070722.git",
+  "srcTargetRevision": "",
+  "labels": {
+    "codefresh_io_entity": "component",
+    "codefresh_io_internal": "true"
+  },
+  "exclude": "",
+  "include": ""
+}
