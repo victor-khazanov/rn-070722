@@ -1,0 +1,13 @@
+{
+  "appName": "rollouts",
+  "userGivenName": "rollouts",
+  "destNamespace": "codefresh-victor",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/rollouts/overlays/codefresh-victor",
+  "srcRepoURL": "https://github.com/victor-khazanov/rn-070722.git",
+  "srcTargetRevision": "",
+  "labels": {
+    "codefresh_io_entity": "component",
+    "codefresh_io_internal": "true"
+  }
+}
